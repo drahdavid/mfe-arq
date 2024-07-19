@@ -8,7 +8,7 @@ import Pricing from "./components/Pricing";
 export default () => {
   return (
     <div>
-      hola
+      holas
       <StylesProvider>
         <BrowserRouter>
           <Switch>
