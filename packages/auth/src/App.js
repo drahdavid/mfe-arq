@@ -9,7 +9,7 @@ import Signin from './components/Signin';
 import Signup from './components/Signup';
 
 const generateClassName = createGenerateClassName({
-  productionPrefix: 'au',
+  productionPrefix: 'aus',
 });
 
 export default ({ history, onSignIn }) => {
